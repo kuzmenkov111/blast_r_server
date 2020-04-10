@@ -5,4 +5,4 @@ VOLUME /home/docker/task
 
 
 #CMD ["Rscript", "/home/docker/app/script.R"]
-CMD["bash"]
+#CMD["bash"]
